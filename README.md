@@ -1,1 +1,1 @@
-# haskell-CA320
+# haskell-CA320 lab exercices
